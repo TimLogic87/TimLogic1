@@ -444,6 +444,56 @@
 
 	{
 
+		"abr": "raid",
+
+		"price": 1500,
+
+		"karmatype": "Bad"
+
+	},
+
+	{
+
+		"abr": "dropraid",
+
+		"price": 1500,
+
+		"karmatype": "Bad"
+
+	},
+
+	{
+
+		"abr": "sapperraid",
+
+		"price": 1500,
+
+		"karmatype": "Bad"
+
+	},
+
+	{
+
+		"abr": "siegeraid",
+
+		"price": 2500,
+
+		"karmatype": "Bad"
+
+	},
+
+	{
+
+		"abr": "mechanoidraid",
+
+		"price": 2500,
+
+		"karmatype": "Bad"
+
+	},
+
+	{
+
 		"abr": "manhunterpack",
 
 		"price": 1500,
@@ -804,7 +854,7 @@
 
 	],
 
-	"total": 80
+	"total": 85
 
 }
 
